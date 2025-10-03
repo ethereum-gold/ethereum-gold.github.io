@@ -1,2 +1,2 @@
-# meta-money.github.io
-MetaMoney homepage inspired by Uniswap
+# ethereum-gold.github.io
+Ethereum Gold homepage inspired by Uniswap
